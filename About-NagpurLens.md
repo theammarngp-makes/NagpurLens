@@ -180,8 +180,8 @@ people of Nagpur.
 
 **Zahid Khan**
 
-<zahidkhan18100@gmail.com>**\|** [Nagpur ,Maharashtra]{.underline}
+<zahidkhan18100@gmail.com>**\|** [Nagpur ,Maharashtra]
 
-[Ruwaifa Ansari]{.underline}
+[Ruwaifa Ansari]
 
-[Nagpur\|Maharashtra]{.underline}
+[Nagpur\|Maharashtra]
