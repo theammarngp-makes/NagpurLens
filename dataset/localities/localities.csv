@@ -1,0 +1,58 @@
+locality_id,locality_name,zone,pincode,latitude,longitude,area_sqkm,density_2011,population_2026_est,is_metro_connected,source
+1,Mahal,Central,440032,21.145,79.099,0.9,38888.9,47105,TRUE,Wikipedia
+2,Sitabuldi,Central,440012,21.146,79.088,0.5,40000.0,26917,TRUE,Wikipedia
+3,Ganesh Peth Colony,Central,440018,21.148,79.095,0.6,30000.0,24226,TRUE,Wikipedia
+4,Dhantoli,West,440012,21.14,79.07,1.8,25000.0,65173,TRUE,Wikipedia
+5,Trimurti Nagar,South-West,440022,21.12,79.05,1.5,18666.7,40552,FALSE,Wikipedia
+6,Itwari,East,440002,21.155,79.11,1.2,45833.3,79656,TRUE,Wikipedia
+7,Mominpura,Central,440018,21.15,79.09,1.0,45000.0,65173,FALSE,Wikipedia
+8,Dharampeth,West,440010,21.14,79.06,2.5,19200.0,69518,TRUE,Wikipedia
+9,Ramdaspeth,North,440010,21.155,79.08,1.2,18333.3,31863,TRUE,Wikipedia
+10,Shraddhanand Peth,West,440010,21.145,79.065,0.8,22500.0,26069,FALSE,Wikipedia
+11,Sadar,Central,440001,21.16,79.09,1.6,15625.0,36207,TRUE,Wikipedia
+12,Civil Lines,North,440001,21.16,79.07,2.8,4285.7,15003,TRUE,Wikipedia
+13,Chinchbhuvan,East,440026,21.138,79.135,1.4,15714.3,34275,FALSE,Wikipedia
+14,Gandhibagh,Central,440002,21.149,79.092,0.8,35000.0,40552,FALSE,Wikipedia
+15,Nandanvan,East,440009,21.127,79.11,2.2,17272.7,59203,FALSE,Wikipedia
+16,Kalamna,North-East,440026,21.16,79.13,2.5,12000.0,46739,FALSE,Wikipedia
+17,Wardhaman Nagar,East,440008,21.145,79.11,2.0,21000.0,65435,FALSE,Wikipedia
+18,Seminary Hills,West,440006,21.155,79.05,3.5,2285.7,10002,FALSE,Wikipedia
+19,Police Line Takli,North,440013,21.17,79.08,1.8,8333.3,18753,FALSE,Wikipedia
+20,Mankapur,North,440030,21.175,79.07,2.0,17500.0,54529,FALSE,Wikipedia
+21,Pachpaoli,North,440017,21.168,79.095,1.5,20000.0,43449,FALSE,Wikipedia
+22,Vayusena Nagar,South,440005,21.11,79.075,2.5,7200.0,22504,FALSE,Wikipedia
+23,Ravi Nagar,West,440010,21.148,79.058,1.2,16666.7,28966,FALSE,Wikipedia
+24,Byramji Town,Central,440013,21.153,79.087,0.7,25714.3,26069,FALSE,Wikipedia
+25,Chaoni,Central,440013,21.168,79.082,2.2,9090.9,25005,FALSE,Wikipedia
+26,Mangalwari,Central,440017,21.152,79.098,1.0,38000.0,55035,FALSE,Wikipedia
+27,Gaddi Godam,Central,440008,21.143,79.105,0.8,27500.0,31863,TRUE,Wikipedia
+28,Gitti Khadan,West,440013,21.158,79.055,2.0,12500.0,36207,FALSE,Wikipedia
+29,Pratap Nagar,South,440022,21.105,79.072,1.8,15555.6,43623,FALSE,Wikipedia
+30,Ajni,South,440003,21.139,79.082,1.5,21333.3,46346,TRUE,Wikipedia
+31,Pardi,East,440035,21.135,79.12,2.2,15909.1,54529,TRUE,Wikipedia
+32,Durganagar,South,440023,21.105,79.08,1.5,14666.7,34275,FALSE,Wikipedia
+33,Indora,North,440017,21.172,79.096,1.8,19444.4,54529,TRUE,Wikipedia
+34,Pili Nadi,East,440035,21.13,79.125,1.2,16666.7,31159,FALSE,Wikipedia
+35,Yashodhara Nagar,North,440006,21.17,79.065,1.8,16666.7,46739,FALSE,Wikipedia
+36,Friends Colony,West,440022,21.118,79.048,1.2,15000.0,26069,FALSE,Wikipedia
+37,Maskasath,Central,440018,21.146,79.087,0.6,36666.7,31863,FALSE,Wikipedia
+38,Jaitala,South-West,440036,21.085,79.032,4.5,1777.8,14408,FALSE,Wikipedia
+39,Jaripatka,North,440014,21.176,79.102,2.0,17500.0,54529,FALSE,Wikipedia
+40,Kapil Nagar,North,440025,21.18,79.07,1.8,13888.9,38949,FALSE,Wikipedia
+41,Ashok Nagar,West,440022,21.118,79.05,1.2,16666.7,28966,FALSE,Wikipedia
+42,Gokulpeth,West,440010,21.143,79.062,1.0,22000.0,31863,FALSE,Wikipedia
+43,Giripeth,West,440010,21.142,79.057,0.9,20000.0,26069,FALSE,Wikipedia
+44,Bajaj Nagar,West,440010,21.136,79.058,2.0,17500.0,50690,FALSE,Wikipedia
+45,Rajendra Nagar,South,440015,21.102,79.08,2.0,12500.0,38949,FALSE,Wikipedia
+46,Lakadganj,Central,440008,21.144,79.108,1.5,23333.3,50690,FALSE,Wikipedia
+47,Gandhinagar,West,440010,21.137,79.056,1.2,16666.7,28966,FALSE,Wikipedia
+48,Manish Nagar,South,440015,21.09,79.0753,0.9,19953.3,26009,TRUE,GeoIQ/Census
+49,Besa,South,440037,21.0893,79.0899,3.08,10009.7,48032,TRUE,GeoIQ/Census
+50,Jamtha,South-West,440015,21.0071,79.0476,17.65,551.7,17538,TRUE,GeoIQ/Census
+51,Hingna,West,440016,20.9814,78.8789,12.4,618.4,11946,FALSE,GeoIQ/Census
+52,Bezanbagh,North-East,440014,21.176,79.105,1.5,14666.7,34275,FALSE,Wikipedia
+53,Bhandewadi,East,440008,21.135,79.108,2.0,12500.0,38949,FALSE,Wikipedia
+54,Rahate Colony,South,440022,21.11,79.06,1.2,15000.0,28043,TRUE,Wikipedia
+55,New Pawan Shakti Nagar,South,440034,21.095,79.075,1.0,15000.0,23370,FALSE,Wikipedia
+56,Jafar Nagar,West,440013,21.162,79.053,1.5,13333.3,28966,FALSE,Wikipedia
+57,Baba Farid Nagar,Central,440017,21.151,79.094,1.0,18000.0,26069,FALSE,Wikipedia
